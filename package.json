@@ -1,0 +1,26 @@
+{
+  "name": "eh_logger",
+  "version": "1.0.0",
+  "description": "no frills zero confg winston logger helper for eventh_horizon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ateventhorizon/eh_logger.git"
+  },
+  "keywords": [
+    "winston",
+    "event_horizon"
+  ],
+  "author": "Dado",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ateventhorizon/eh_logger/issues"
+  },
+  "dependencies": {
+    "winston": "^3.2.1"
+  },
+  "homepage": "https://github.com/ateventhorizon/eh_logger#readme"
+}
