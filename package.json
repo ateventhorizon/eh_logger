@@ -1,6 +1,6 @@
 {
   "name": "eh_logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "no frills zero confg winston logger helper for eventh_horizon",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,7 @@
     "url": "https://github.com/ateventhorizon/eh_logger/issues"
   },
   "dependencies": {
+    "app-root-path": "^3.0.0",
     "winston": "^3.2.1"
   },
   "homepage": "https://github.com/ateventhorizon/eh_logger#readme"
